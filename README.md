@@ -1,0 +1,83 @@
+# chanmina – SAD SONG
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+This is a fxxking sad song
+for you guys
+It's fxxking hard to say it,
+goodbye
+Did you see that beautiful moon
+and stars?
+前見た時より綺麗だ
+Hello how are you はじめまして
+ずっと会いたかったんだよ
+君に会うまでの間
+少しだけ心配してた
+でも君はなんて事ないって
+顔してる
+ずっとそばにいてよ
+こんなご時世にさ
+そんなわがままダメなのかな
+This is a fxxking sad song
+for you guys
+It's fxxking hard to say it,
+goodbye
+So tell me
+この夢が終わる時はそっと教えてね
+This is a fxxking love song
+for you guys
+さよならはまだ先でしょう
+もう少しこうしてたい
+できるだけ
+本当のこと教えてよ
+後で悲しみたくないの
+例えば君の正体は
+お化けだったとかさ
+でもきっと今のところ
+それでもいいってくらい君が好きだ
+ほら見てそんな感じで笑うから
+変な話だよね
+背が止まる頃に
+永遠って言葉を疑うのかな
+願うならこんな私が
+死んでもこの愛だけは
+せめて
+残って咲いてますように
+今はただこんな私の
+この音とこんな歌声を
+信じていて欲しいんだ
+できるだけ
+It's hard to say it
+I can't say it
+I never say it
+I don't want to say it
+It's hard to say it
+I can't say it
+願うならこんな私が
+死んでもこの愛だけは
+せめて
+残って咲いてますように
+今はただこんな私の
+この音とこんな歌声を
+信じていて欲しいんだ
+This is a fxxking sad song
+for you guys
+It's fxxking hard to say it,
+goodbye
+So tell me
+この夢が終わる時はそっと教えてね
+This is a fxxking love song
+for you guys
+さよならはまだ先でしょう
+もう少しこうしてたい
+できるだけ
+永遠って事にしておこうよ
+このままずっと笑いあってよう
+子供みたい永遠なんてないとか
+なんて言われても関係ない
+もしもこの夢が覚めたとして
+もう一度歌って叫んででも
+I cannot say it
+さよならはできないから
+```
