@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "SAD SONG",
-  "base_artist": "chanmina",
-  "createdAt": "2025-12-03T05:05:06.828778Z",
+  "base_track": "SAD SONG - From THE FIRST TAKE（feat. No No Girls FINALISTS）",
+  "base_artist": "ちゃんみな",
+  "createdAt": "2026-02-12T07:15:52.031890Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -31,98 +31,98 @@
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Sad Song - Live At Manchester Academy",
-      "artist": "Oasis",
+      "title": "Some Sad Song",
+      "artist": "Travis",
       "has_synced": true,
-      "path": "select/04_Sad_Song_-_Live_At_Manchester_Academy_Oasis.lrc"
+      "path": "select/04_Some_Sad_Song_Travis.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "Sad Song (Live at Manchester Academy)",
-      "artist": "Oasis",
+      "title": "Sad Song",
+      "artist": "September",
       "has_synced": true,
-      "path": "select/05_Sad_Song_(Live_at_Manchester_Academy)_Oasis.lrc"
+      "path": "select/05_Sad_Song_September.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "Blame It on a Sad Song",
-      "artist": "Lynyrd Skynyrd",
+      "title": "Sad Song",
+      "artist": "Hooverphonic",
       "has_synced": true,
-      "path": "select/06_Blame_It_on_a_Sad_Song_Lynyrd_Skynyrd.lrc"
+      "path": "select/06_Sad_Song_Hooverphonic.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "Some Sad Song",
-      "artist": "Travis",
+      "title": "Sad Song",
+      "artist": "Au Revoir Simone",
       "has_synced": true,
-      "path": "select/07_Some_Sad_Song_Travis.lrc"
+      "path": "select/07_Sad_Song_Au_Revoir_Simone.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
       "title": "Sad Song",
-      "artist": "September",
+      "artist": "Room Eleven",
       "has_synced": true,
-      "path": "select/08_Sad_Song_September.lrc"
+      "path": "select/08_Sad_Song_Room_Eleven.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "Sad Song",
-      "artist": "Hooverphonic",
+      "title": "Sad Song - Live At Manchester Academy",
+      "artist": "Oasis",
       "has_synced": true,
-      "path": "select/09_Sad_Song_Hooverphonic.lrc"
+      "path": "select/09_Sad_Song_-_Live_At_Manchester_Academy_Oasis.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "Sad Song - Live Album Version",
-      "artist": "Hooverphonic",
-      "has_synced": false,
-      "path": "select/10_Sad_Song_-_Live_Album_Version_Hooverphonic.txt"
+      "title": "Sad Song (Live at Manchester Academy)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/10_Sad_Song_(Live_at_Manchester_Academy)_Oasis.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "Sad Song (Live Album Version)",
-      "artist": "Hooverphonic",
-      "has_synced": false,
-      "path": "select/11_Sad_Song_(Live_Album_Version)_Hooverphonic.txt"
+      "title": "Blame It on a Sad Song",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/11_Blame_It_on_a_Sad_Song_Lynyrd_Skynyrd.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "Sad Song",
-      "artist": "Au Revoir Simone",
-      "has_synced": true,
-      "path": "select/12_Sad_Song_Au_Revoir_Simone.lrc"
+      "title": "Sad Song - Live Album Version",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/12_Sad_Song_-_Live_Album_Version_Hooverphonic.txt"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "Sad Song (Pacific! Remix)",
-      "artist": "Au Revoir Simone",
+      "title": "Sad Song (Live Album Version)",
+      "artist": "Hooverphonic",
       "has_synced": false,
-      "path": "select/13_Sad_Song_(Pacific!_Remix)_Au_Revoir_Simone.txt"
+      "path": "select/13_Sad_Song_(Live_Album_Version)_Hooverphonic.txt"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "Sad Song (Alexis Taylor Remix)",
+      "title": "Sad Song (Pacific! Remix)",
       "artist": "Au Revoir Simone",
       "has_synced": false,
-      "path": "select/14_Sad_Song_(Alexis_Taylor_Remix)_Au_Revoir_Simone.txt"
+      "path": "select/14_Sad_Song_(Pacific!_Remix)_Au_Revoir_Simone.txt"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "Sad Song",
-      "artist": "Room Eleven",
-      "has_synced": true,
-      "path": "select/15_Sad_Song_Room_Eleven.lrc"
+      "title": "Sad Song (Alexis Taylor Remix)",
+      "artist": "Au Revoir Simone",
+      "has_synced": false,
+      "path": "select/15_Sad_Song_(Alexis_Taylor_Remix)_Au_Revoir_Simone.txt"
     },
     {
       "id": "lrclib_16",
@@ -135,26 +135,10 @@
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "SAD SONG",
-      "artist": "ちゃんみな",
+      "title": "SAD SONG - From THE FIRST TAKE",
+      "artist": "ちゃんみな, No No Girls FINALISTS",
       "has_synced": false,
-      "path": "select/pl_01_SAD_SONG_ちゃんみな.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "SAD SONG",
-      "artist": "ちゃんみな",
-      "has_synced": false,
-      "path": "select/pl_02_SAD_SONG_ちゃんみな.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "SAD SONG",
-      "artist": "ちゃんみな",
-      "has_synced": false,
-      "path": "select/pl_03_SAD_SONG_ちゃんみな.txt"
+      "path": "select/pl_01_SAD_SONG_-_From_THE_FIRST_TAKE_ちゃんみな,_No_No_Girls_FINALISTS.txt"
     }
   ]
 }
