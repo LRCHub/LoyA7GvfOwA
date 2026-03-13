@@ -1,4 +1,4 @@
-# ちゃんみな – SAD SONG - From THE FIRST TAKE（feat. No No Girls FINALISTS）
+# ちゃんみな – SAD SONG
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
@@ -7,14 +7,15 @@ This is a fxxking sad song
 for you guys
 It's fxxking hard to say it,
 goodbye
-Did you see that
-beautiful moon and stars?
+Did you see that beautiful moon
+and stars?
 前見た時より綺麗だ
 Hello how are you はじめまして
 ずっと会いたかったんだよ
 君に会うまでの間
 少しだけ心配してた
-でも君はなんて事ないって顔してる
+でも君はなんて事ないって
+顔してる
 ずっとそばにいてよ
 こんなご時世にさ
 そんなわがままダメなのかな
@@ -79,12 +80,4 @@ for you guys
 もう一度歌って叫んででも
 I cannot say it
 さよならはできないから
-願うならこんな私が
-死んでもこの愛だけは
-せめて
-残って咲いてますように
-今はただこんな私の
-この音とこんな歌声を
-信じていて欲しいんだ
-できるだけ
 ```
